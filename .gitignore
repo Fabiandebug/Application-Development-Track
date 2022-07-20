@@ -1,0 +1,6 @@
+#Environments
+   .env 
+   pyvenv.cfg
+
+#files
+   requirments.txt
