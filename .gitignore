@@ -1,6 +1,7 @@
 #Environments
-   .env 
-   venv
- 
+   .env/ 
+   
+   venv/
+   .vscode/
 #files
    requirments.txt
